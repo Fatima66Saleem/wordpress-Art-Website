@@ -14,7 +14,6 @@
 
 ## 🖼️ Project Preview (Screenshots)
 
-Niche di gayi images website ka visual design aur features dikhati hain:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8c0f9dd0-dae5-42f5-a0b9-ab8bace4cf46" width="45%" />
